@@ -18,7 +18,7 @@ Follow these steps to install and run the app:
 1. Clone the repository locally:
 
    ```
-   git clone https://github.com/yourname/exercises-app.git
+   git clone https://github.com/ismaeleBo/ReactNativeExercises
    cd exercises-app
    ```
 
