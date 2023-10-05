@@ -1,6 +1,6 @@
 # ReactNativeExercises
 
-Welcome to the React Native Exercises App project! This is a mobile application that provides a set of exercises to help you improve your fitness and overall health. The app includes three main exercises:
+Welcome to the React Native Exercises App project! This is a mobile application that provides a set of exercises to help you improve your react native skills.
 
 ## System Requirements
 
@@ -102,6 +102,6 @@ If you find any bugs or have suggestions for improving the app, please open a ne
 
 ## License
 
-This project is distributed under the MIT License. Read the [LICENSE](LICENSE) file for more information.
+This project is distributed under the MIT License. Read the [LICENSE] file for more information.
 
 Thank you for using the React Native Exercises App! Happy exercising!
